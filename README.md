@@ -7,18 +7,18 @@ This project is documantation for setup new domain and subdomain into VPS. I'm u
 
 # Buy new Domain
 - Click Order Domain, and buy it
-  ![image](https://user-images.githubusercontent.com/22932211/125038460-a1088e80-e0bf-11eb-8e5e-173d22ae8c1d.png)
+![image](https://user-images.githubusercontent.com/22932211/125067710-ce186980-e0de-11eb-8983-79e5d2d09e72.png)
 
 # Setup domain into VPS
 
 If you using VPS like Digital Ocean, AWS, or GCP you can pointing the domain into your VPS.
 - Click Kelola Domain
-  ![image](https://user-images.githubusercontent.com/22932211/125038995-3c99ff00-e0c0-11eb-953f-3f87402189aa.png)
+  ![image](https://user-images.githubusercontent.com/22932211/125067793-e7211a80-e0de-11eb-94e7-5e4338cf6d0b.png)
   
 - Open tab Name Server, and copy paste your VPS Name Server into Niagahoster. You must register new domain in your VPS before get the Name Server
-  ![image](https://user-images.githubusercontent.com/22932211/125039705-fb561f00-e0c0-11eb-9c57-b26ae86ee85e.png)
+  ![image](https://user-images.githubusercontent.com/22932211/125067614-b345f500-e0de-11eb-80fe-611ab275f627.png)
 
 - After it, open tab DNS Management, and add A record for new domain or subdomains
-  ![image](https://user-images.githubusercontent.com/22932211/125040168-83d4bf80-e0c1-11eb-99b8-8e058e5f418a.png)
+  ![image](https://user-images.githubusercontent.com/22932211/125067884-05871600-e0df-11eb-8711-43269fee6ad1.png)
 
 - Check your pointing is success or not in https://dnschecker.org/
